@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Beach","order":7,"parentId":0,"scrollX":712,"scrollY":449.3333333333333},
+{"id":2,"expanded":true,"name":"Forest Pathway","order":4,"parentId":0,"scrollX":1688,"scrollY":390.6666666666667},
+{"id":3,"expanded":true,"name":"Abandoned Town","order":1,"parentId":0,"scrollX":712,"scrollY":1422.6666666666667},
+{"id":4,"expanded":false,"name":"Bottom Path","order":5,"parentId":2,"scrollX":816,"scrollY":390.6666666666667},
+{"id":5,"expanded":false,"name":"Upper Path","order":6,"parentId":2,"scrollX":877.3333333333334,"scrollY":1038.6666666666667},
+{"id":6,"expanded":true,"name":"Desert","order":2,"parentId":0,"scrollX":712,"scrollY":401.3333333333333},
+{"id":7,"expanded":false,"name":"Desert Grounds","order":3,"parentId":6,"scrollX":801.3333333333334,"scrollY":439.3333333333333}
+]
